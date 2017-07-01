@@ -2,8 +2,6 @@
 
 ### Markdown
 
-'print("MEHMET DOGAN")'
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -16,7 +14,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - List
 
 1. Example 1
-`print("i m a quantitative analyst")`
+
+`if Im == "mehmet"
+     print("i m a quantitative analyst")`
 
 2. List
 
