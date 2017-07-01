@@ -16,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - List
 
 1. Example 1
-'print("i m a quantitative analyst")'
+`print("i m a quantitative analyst")`
 
 2. List
 
