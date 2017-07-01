@@ -15,8 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 1. Example 1
 
-`if Im == "mehmet"
-     print("i m a quantitative analyst")`
+`print("Welcocom to Mehmet's world")`
 
 2. List
 
