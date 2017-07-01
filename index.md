@@ -2,7 +2,7 @@
 
 ### Markdown
 
-'print("MEHMET DOGAN")
+'print("MEHMET DOGAN")'
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,7 +15,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Bulleted
 - List
 
-1. Numbered
+1. Example 1
+'print("i m a quantitative analyst")'
+
 2. List
 
 **Bold** and _Italic_ and `Code` text
