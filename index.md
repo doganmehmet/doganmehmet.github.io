@@ -15,7 +15,7 @@
 - 1.1
 
 ```python
-print("MEHMET")
+`print("MEHMET")`
 ```
 `print("Welcome to Mehmet's world")`
 `x = 5`
