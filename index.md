@@ -13,7 +13,7 @@
 
 1. Example 1
 - 1.1
-print("Welcome to Mehmet's world")
+`print("Welcome to Mehmet's world")`
 
 2. List
 
