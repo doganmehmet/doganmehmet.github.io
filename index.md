@@ -15,18 +15,19 @@
 - 1.1
 
 ```python
-s = 39
-print(s)
-print("MEHMET")
-print("Welcome to Mehmet's world")
-x = 5
-y = 10
-z = x + y
-print(z)
+`s = 39`
+`print(s)`
+`print("MEHMET")`
+`print("Welcome to Mehmet's world")`
+`x = 5`
+`y = 10`
+`z = x + y`
+`print(z)`
 ```
 
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src
+[Link](url) and ![Image](src)
+```
