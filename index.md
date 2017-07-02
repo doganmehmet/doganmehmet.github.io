@@ -14,6 +14,11 @@
 1. Example 1
 - 1.1
 `print("Welcome to Mehmet's world")`
+`x = 5`
+`y = 10'
+`z = x + y`
+`print(z)`
+
 
 2. List
 
