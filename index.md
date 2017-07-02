@@ -18,13 +18,12 @@
 s = 39
 print(s)
 print("MEHMET")
+print("Welcome to Mehmet's world")
+x = 5
+y = 10
+z = x + y
+print(z)
 ```
-`print("Welcome to Mehmet's world")`
-`x = 5`
-`y = 10`
-`z = x + y`
-`print(z)`
-
 
 2. List
 
