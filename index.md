@@ -15,7 +15,9 @@
 - 1.1
 
 ```python
-`print("MEHMET")`
+s = 39
+print(s)
+print("MEHMET")
 ```
 `print("Welcome to Mehmet's world")`
 `x = 5`
@@ -28,5 +30,4 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link](url) and ![Image](src
