@@ -13,6 +13,10 @@
 
 1. Example 1
 - 1.1
+
+```python
+print("MEHMET")
+```
 `print("Welcome to Mehmet's world")`
 `x = 5`
 `y = 10`
