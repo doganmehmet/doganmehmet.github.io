@@ -6,3 +6,7 @@
 ### You can find my public repositories at
 
 [Mehmet's repositories](https://github.com/doganmehmet?tab=repositories)
+
+
+### Find my linkedin profile at
+[Mehmet's Linkedin profile](linkedin.com/in/dmehmet)
