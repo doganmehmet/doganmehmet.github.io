@@ -9,4 +9,4 @@
 
 
 ### Find my linkedin profile at
-[Mehmet's Linkedin profile](linkedin.com/in/dmehmet)
+[Mehmet's Linkedin profile](https://www.linkedin.com/in/dmehmet/?locale=en_US)
