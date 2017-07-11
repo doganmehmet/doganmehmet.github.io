@@ -2,7 +2,7 @@
 
 ### Test!
 
-***You can find my public repositories at***
+***My public repositories can be found at***
 
 [Mehmet's repositories](https://github.com/doganmehmet?tab=repositories)
 
