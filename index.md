@@ -1,6 +1,5 @@
 ## Welcome to Mehmet's homepage!
 
-### Test!
 
 ***My public repositories can be found at***
 
